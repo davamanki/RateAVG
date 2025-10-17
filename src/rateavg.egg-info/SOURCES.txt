@@ -1,0 +1,8 @@
+pyproject.toml
+src/app/__init__.py
+src/app/count.py
+src/app/reader.py
+src/rateavg.egg-info/PKG-INFO
+src/rateavg.egg-info/SOURCES.txt
+src/rateavg.egg-info/dependency_links.txt
+src/rateavg.egg-info/top_level.txt
